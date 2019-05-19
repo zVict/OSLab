@@ -207,7 +207,7 @@
 
 * ##### 实验结果
 
-   * ![结果]Lab3/pictures/2019-05-13 (2).png
+   * ![结果]https://github.com/zVict/Operating-System-Lab/blob/master/Lab3/pictures/2019-05-13%20(2).png
 
       
 
